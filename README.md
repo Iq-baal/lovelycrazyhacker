@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lovelycrazyhacker
 - 👀 I’m interested in working together
 - 🌱 I’m currently learning python and C
-- 💞️ I’m looking to collaborate on projects related to 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects related to AI and machine learning
+
 
 <!---
 lovelycrazyhacker/lovelycrazyhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
