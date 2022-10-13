@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lovelycrazyhacker
-- 👀 I’m interested in working together
-- 🌱 I’m currently learning python and C
+- ✅ Name's Dr. Iqbaal
+- 🌱 I’m currently Working on Machine Learning
 - 💞️ I’m looking to collaborate on projects related to AI and machine learning
 
 
