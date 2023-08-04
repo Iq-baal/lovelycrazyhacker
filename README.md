@@ -1,9 +1,1 @@
-- ✅ Name's Dr. Iqbaal
-- 🌱 I’m currently Working on Machine Learning
-- 💞️ I’m looking to collaborate on projects related to AI and machine learning
-
-
-<!---
-lovelycrazyhacker/lovelycrazyhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Crafting digital wonders with Python magic ✨🐍 | Transforming lines of code into innovation | Navigating the realms of data, AI, and web | Curious mind, coding heart, endless possibilities | Join me in the journey of bytes and brilliance! 🚀🔮 #PythonSorcerer #CodeEnchanter.
